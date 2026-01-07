@@ -1,0 +1,4 @@
+./.github/pull_request_template.md
+./README.md
+./js/masonry.pkgd.min.js
+./js/scripts.js
